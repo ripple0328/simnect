@@ -1,0 +1,6 @@
+* TODO simnect 
+	1. layouts中notice alert之类的显示不出来，需要调整css
+	2. signin页面中 用临时性的<br/>来调整 link 位置 调整css统一布局
+	3. signin以后会在导航栏显示名字，但是现在nav哪一行css也有点问题
+	4. 
+
